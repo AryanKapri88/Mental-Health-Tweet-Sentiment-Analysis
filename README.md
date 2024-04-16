@@ -18,5 +18,5 @@ The analysis leverages hashtag analytics to quantify the campaigns' effectivenes
 `UMHD`: University Mental Health Day
 
 
-<img width="370" alt="tweet 2" src="https://github.com/AryanKapri88/Mental-Health-Tweet-Sentiment-Analysis/assets/110614822/3915f43e-16b6-4df2-92af-7ce035ed7776">  <img width="358" alt="tweet 3" src="https://github.com/AryanKapri88/Mental-Health-Tweet-Sentiment-Analysis/assets/110614822/0120b189-2fff-4d4b-97da-7c213153c730">
+<img width="370" alt="tweet 2" src="https://github.com/AryanKapri88/Mental-Health-Tweet-Sentiment-Analysis/assets/110614822/3915f43e-16b6-4df2-92af-7ce035ed7776">  <img width="350" alt="tweet 3" src="https://github.com/AryanKapri88/Mental-Health-Tweet-Sentiment-Analysis/assets/110614822/0120b189-2fff-4d4b-97da-7c213153c730">
 
