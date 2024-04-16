@@ -49,5 +49,11 @@ Logistic regression is a statistical model used for binary classification tasks.
 
 ![Logistic regression](https://github.com/AryanKapri88/Mental-Health-Tweet-Sentiment-Analysis/assets/110614822/d0de0223-20b0-4db1-9e75-6b3928c22a51)
 
+## Result and Accuracy
+
+|ML Model|Test Accuracy|Precision|Recall|AUC Score|
+|---|---|---|---|---|
+|Logistic Regression|93.58%|93.58%|93.58%|97.29%|
+
 
 
