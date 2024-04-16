@@ -13,5 +13,5 @@ The analysis leverages hashtag analytics to quantify the campaigns' effectivenes
 `OCD`: Obsessive Compulsive Disorder 
 `UMHD`: University Mental Health Day
 
-<img width="500" alt="tweet 1" src="https://github.com/AryanKapri88/Mental-Health-Tweet-Sentiment-Analysis/assets/110614822/b91cfcdc-815d-4a3f-8b4c-d422a4d5e1da">
+<img width="287" alt="tweet 2" src="https://github.com/AryanKapri88/Mental-Health-Tweet-Sentiment-Analysis/assets/110614822/0bb815b5-921e-437b-9326-e8479bb65d87">
 
