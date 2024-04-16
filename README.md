@@ -9,13 +9,13 @@ The analysis leverages hashtag analytics to quantify the campaigns' effectivenes
 
 `EDAW`: Eating Disorder Awareness Weeek
 
-`ED`: Eating Disorder
-
 `MHAW`: Mental Health Awareness Week
+
+`UMHD`: University Mental Health Day
 
 `OCD`: Obsessive Compulsive Disorder 
 
-`UMHD`: University Mental Health Day
+`ED`: Eating Disorder
 
 
 <img width="395" alt="tweet 2" src="https://github.com/AryanKapri88/Mental-Health-Tweet-Sentiment-Analysis/assets/110614822/3915f43e-16b6-4df2-92af-7ce035ed7776">                   
