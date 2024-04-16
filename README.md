@@ -23,7 +23,7 @@ The analysis leverages hashtag analytics to quantify the campaigns' effectivenes
 
 ## Datasets
 
-he datasets used in this project are available in the `Datasets/` folder of this repository.
+The datasets used in this project are available in the `Datasets/` folder of this repository.
 
 `OCD Dataset`
 
@@ -54,6 +54,20 @@ Logistic regression is a statistical model used for binary classification tasks.
 |ML Model|Test Accuracy|Precision|Recall|AUC Score|
 |---|---|---|---|---|
 |Logistic Regression|93.58%|93.58%|93.58%|97.29%|
+
+## Templates, Pickle and py files
+
+`sentimentanalyzer.py`: A Flask application file for deploying the sentiment analysis model as a web app.
+
+`preprocessing.py`: A Python file containing a class and functions for preprocessing and cleaning the text data.
+
+`clf.pkl`: A pickle file containing the trained logistic regression classifier model.
+
+`tfidf.pkl`: A pickle file containing the TfidfVectorizer object with LemmaTokenizer for text vectorization.
+
+`templates/home.html`: The main HTML template file for the web application, which uses Bootstrap for styling and layout.
+
+
 
 
 
