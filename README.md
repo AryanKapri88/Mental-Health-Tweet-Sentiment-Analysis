@@ -65,7 +65,7 @@ Logistic regression is a statistical model used for binary classification tasks.
 
 `tfidf.pkl`: A pickle file containing the TfidfVectorizer object with LemmaTokenizer for text vectorization.
 
-`templates/home.html`: The main HTML template file for the web application, which uses Bootstrap for styling and layout.
+`templates/index.html`: The main HTML template file for the web application, which uses Bootstrap for styling and layout.
 
 
 
