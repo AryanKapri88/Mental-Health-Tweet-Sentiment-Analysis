@@ -25,18 +25,22 @@ The analysis leverages hashtag analytics to quantify the campaigns' effectivenes
 
 `OCD Dataset`
 Location: Datasets/OCD.csv
+
 Description: This dataset contains data collected during the OCD Week campaign, including hashtag usage, mentions, and engagement metrics over a period of 6 years up to 2023.
 
 `EDAW Dataset`
 Location: Datasets/EDAW.csv
+
 Description: The EDAW dataset focuses on the Eating Disorders Awareness Week campaign, providing information such as hashtag mentions labeled as "ED," total mentions, and other relevant data spanning 7 years up to 2023.
 
 `MHAW Dataset`
 Location: Datasets/MHAW.csv
+
 Description: This dataset covers the Mental Health Awareness Week campaign, including hashtag usage statistics and engagement metrics over a 6-year period up to 2023.
 
 `UMHD Dataset`
 Location: Datasets/UMHD.csv
+
 Description: The UMHD dataset contains data related to the University Mental Health Day campaign, such as hashtag mentions and engagement data for a 7-year period up to 2023.
 
 
