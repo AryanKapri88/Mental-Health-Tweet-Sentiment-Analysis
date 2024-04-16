@@ -21,3 +21,23 @@ The analysis leverages hashtag analytics to quantify the campaigns' effectivenes
 <img width="395" alt="tweet 2" src="https://github.com/AryanKapri88/Mental-Health-Tweet-Sentiment-Analysis/assets/110614822/3915f43e-16b6-4df2-92af-7ce035ed7776">                   
 <img width="350" alt="tweet 3" src="https://github.com/AryanKapri88/Mental-Health-Tweet-Sentiment-Analysis/assets/110614822/0120b189-2fff-4d4b-97da-7c213153c730">
 
+### Dataset
+
+`OCD Dataset`
+Location: Datasets/OCD.csv
+Description: This dataset contains data collected during the OCD Week campaign, including hashtag usage, mentions, and engagement metrics over a period of 6 years up to 2023.
+
+`EDAW Dataset`
+Location: Datasets/EDAW.csv
+Description: The EDAW dataset focuses on the Eating Disorders Awareness Week campaign, providing information such as hashtag mentions labeled as "ED," total mentions, and other relevant data spanning 7 years up to 2023.
+
+`MHAW Dataset`
+Location: Datasets/MHAW.csv
+Description: This dataset covers the Mental Health Awareness Week campaign, including hashtag usage statistics and engagement metrics over a 6-year period up to 2023.
+
+`UMHD Dataset`
+Location: Datasets/UMHD.csv
+Description: The UMHD dataset contains data related to the University Mental Health Day campaign, such as hashtag mentions and engagement data for a 7-year period up to 2023.
+
+
+
