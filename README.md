@@ -1,2 +1,3 @@
 ## Mental Health Tweet Sentiment Analysis
-![img](https://storage.googleapis.com/kaggle-datasets-images/3092944/5323747/392874ed6099aff421c730d6d4161c00/dataset-cover.png?t=2023-04-05-18-10-47)
+![img](https://github.com/AryanKapri88/Mental-Health-Tweet-Sentiment-Analysis/assets/110614822/7b9f4c90-0a74-4fd8-a1a6-bba1e811a984)
+
