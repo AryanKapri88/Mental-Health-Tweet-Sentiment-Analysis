@@ -41,5 +41,13 @@ Description: This dataset covers the Mental Health Awareness Week campaign, incl
 
 Description: The UMHD dataset contains data related to the University Mental Health Day campaign, such as hashtag mentions and engagement data for a 7-year period up to 2023.
 
+## Model Used
+
+**Logistic Regression**
+
+Logistic regression is a statistical model used for binary classification tasks. It predicts the probability of an outcome based on input features, applying a logistic (sigmoid) function to the linear combination of features. The model estimates coefficients to fit the data, typically using maximum likelihood estimation.
+
+![Logistic regression](https://github.com/AryanKapri88/Mental-Health-Tweet-Sentiment-Analysis/assets/110614822/d0de0223-20b0-4db1-9e75-6b3928c22a51)
+
 
 
